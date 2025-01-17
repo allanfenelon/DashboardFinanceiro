@@ -25,9 +25,11 @@ Este dashboard foi desenvolvido como um projeto para aprimorar habilidades no **
 
 ---
 
+
 ### 📊 Detalhamento
 > Foco em análises específicas, com gráficos mais detalhados.
-![Detalhamento](https://github.com/user-attachments/assets/25c7c4ae-e18b-4da0-be7a-18cbc14a8c4d)
+![Detalhamento](https://github.com/user-attachments/assets/0c7c7570-e5b6-4be9-a8ce-d08c141959f3)
+
 
 ---
 
